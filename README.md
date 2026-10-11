@@ -33,9 +33,13 @@ Fonte: [1] https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.scrum.org%2Fresou
    Aqui está o resumo do manejo de cronogramas pelo Product Owner concentrado nos **5 tópicos**:
 
 **Flexibilização do Escopo:** Trata o tempo como fixo e ajusta o escopo, priorizando as funcionalidades de maior valor em vez de adiar datas-limite. [1]
+
 **Priorização e Negociação:** Utiliza critérios claros para focar no que é essencial e aplica a prática do "não" para barrar solicitações de baixo impacto. [2]
+
 **Previsões Empíricas:** Baseia os prazos no histórico real de velocidade e entregas da equipe, evitando estimativas teóricas irrealistas. [3]
+
 **Respeito ao** **Time-boxing** **:** Protege o ritmo de trabalho e as metas da *Sprint*, impedindo que mudanças de última hora desestabilizem o ciclo. [4]
+
 **Refinamento e Débito Técnico:** Fatora requisitos em itens menores e reserva espaço para resolver pendências técnicas, prevenindo atrasos futuros. [5]
 
    Fonte: [1] https://www.youtube.com/watch?v=7lhnYbmovb4

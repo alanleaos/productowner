@@ -1,4 +1,4 @@
-# productowner
+# O Papel do Product Owner no Mercado Atual
 Conteúdo a respeito da Carreira de Product Owner
 ---
 Nesse repositório você irá encontrar valiosas informações sobre a carreira de Product Owner. Conhecerrá mais sobre o papel desse profissional dentro no Scrum Team. Terá uma visão geral de suas atribuições e como pode colaborar para uma entrega acertiva para os Stakeholders. 
